@@ -1,0 +1,90 @@
+{
+  "bot_running": false,
+  "daily_views": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "engagement": [
+    {
+      "color": "#7c6fe0",
+      "icon": "\u2661",
+      "label": "Likes",
+      "pct": 0,
+      "value": "0"
+    },
+    {
+      "color": "#3b7cf4",
+      "icon": "\u25ce",
+      "label": "Comments",
+      "pct": 0,
+      "value": "0"
+    },
+    {
+      "color": "#2db870",
+      "icon": "\u25b7",
+      "label": "Avg watch %",
+      "pct": 0,
+      "value": "0%"
+    }
+  ],
+  "md": "1 videos this period",
+  "next_run": "08:00",
+  "niches": [
+    {
+      "n": "tech_leaks",
+      "v": "0",
+      "w": 0
+    }
+  ],
+  "revenue": 0,
+  "sd": "\u2191 0 this month",
+  "subs": 0,
+  "top_niches": [
+    {
+      "name": "tech_leaks",
+      "pct": 0
+    }
+  ],
+  "top_videos": [
+    {
+      "eng": "0%",
+      "fmt": "shocking_secret",
+      "niche": "tech_leaks",
+      "title": "5 Leaks About Apple's Flying Car",
+      "views": "0"
+    }
+  ],
+  "vd": "\u2191 0.2 per week",
+  "videos_posted": 1,
+  "vids": 1,
+  "views": 0,
+  "watch": "0h"
+}

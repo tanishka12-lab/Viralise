@@ -1,0 +1,61 @@
+{
+  "bot_running": false,
+  "history": [
+    {
+      "at": "2026-04-13T12:16:18.148110",
+      "duration": 320.0,
+      "error": "",
+      "success": true
+    }
+  ],
+  "last_run": {
+    "duration_sec": 320.0,
+    "error": null,
+    "finished_at": "2026-04-13T12:21:37.991551",
+    "started_at": "2026-04-13T12:16:18.148110",
+    "steps_log": [
+      {
+        "seconds": 0.0,
+        "step": "topic"
+      },
+      {
+        "seconds": 10.4,
+        "step": "script"
+      },
+      {
+        "seconds": 3.1,
+        "step": "voice"
+      },
+      {
+        "seconds": 4.7,
+        "step": "clips"
+      },
+      {
+        "seconds": 206.1,
+        "step": "render"
+      },
+      {
+        "seconds": 0.4,
+        "step": "subtitles"
+      },
+      {
+        "seconds": 1.3,
+        "step": "thumbnail"
+      },
+      {
+        "seconds": 3.6,
+        "step": "YouTube"
+      },
+      {
+        "seconds": 0.0,
+        "step": "Social Hub"
+      },
+      {
+        "seconds": 0.0,
+        "step": "Indian Platforms"
+      }
+    ],
+    "success": true
+  },
+  "next_run": "08:00"
+}
